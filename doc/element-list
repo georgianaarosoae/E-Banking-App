@@ -1,0 +1,8 @@
+unnamed package
+data.models
+data.repository
+di.service
+domain.exceptions
+domain.mappers
+domain.models
+presentation
